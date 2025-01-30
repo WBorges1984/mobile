@@ -1,0 +1,4 @@
+object DmGeral: TDmGeral
+  Height = 322
+  Width = 337
+end
